@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/b76f3546-94d4-4df4-b5cf-b65d9acb0708" width="100" height="300">
+<img src="https://github.com/user-attachments/assets/b76f3546-94d4-4df4-b5cf-b65d9acb0708" width="250" height="300">
 <img src="[![WhatsApp Image 2024-08-26 at 5 21 02 PM (1)](https://github.com/user-attachments/assets/e4d68797-75b7-42da-8f55-63f5e657d77b)" width="100" height="100">
 
 ![WhatsApp Image 2024-08-26 at 5 21 03 PM (1)](https://github.com/user-attachments/assets/38d3932d-5acf-439d-8372-06379cbcfc95)
