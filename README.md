@@ -1,8 +1,8 @@
-<div align="center>
-<img width="50%" src="https://github.com/user-attachments/assets/b76f3546-94d4-4df4-b5cf-b65d9acb0708"  height="450"> 
-<img width="50% src="https://github.com/user-attachments/assets/b76f3546-94d4-4df4-b5cf-b65d9acb0708" height="450">
+<p float="left">
+<img  src="https://github.com/user-attachments/assets/b76f3546-94d4-4df4-b5cf-b65d9acb0708"  height="450"> 
+<img  src="https://github.com/user-attachments/assets/b76f3546-94d4-4df4-b5cf-b65d9acb0708" height="450">
   
-</div>
+</p>
 
 
 ![WhatsApp Image 2024-08-26 at 5 21 03 PM (1)](https://github.com/user-attachments/assets/38d3932d-5acf-439d-8372-06379cbcfc95)
